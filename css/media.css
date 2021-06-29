@@ -1,0 +1,98 @@
+@media (min-width: 0px) and (max-width:992px){
+    .navbar-nav {
+     
+        text-align: center;
+    }
+}
+@media (min-width: 769px) and (max-width:992px){
+    .f-icon {
+        
+        margin-left: 46px;
+    }
+    .heading_three h1 {
+        
+        font-size: 32px;
+       
+    }
+    .our-attorneys h2 {
+        
+        font-size: 18px;
+       
+       
+    }
+
+}
+@media (min-width: 577px) and (max-width:768px){
+    .image-one {
+        
+        margin-left: 80px;
+        margin-bottom: 20px;
+    }
+    .image {
+        margin-bottom: 30px;
+     
+        margin-left: 82px;
+    }
+}
+}
+@media (min-width: 0px) and (max-width:576px){
+    .heading h1 {
+          font-size: 34px;
+       
+    }
+    .who_we_are p {
+  
+        font-size: 14px;
+    }
+    .heading_two h1 {
+        
+        font-size: 34px;
+      
+    }
+    .image {
+        margin-bottom: 30px;
+     
+        margin-left: 82px;
+    }
+    footer p {
+        
+        text-align: center;
+    }
+    .f-icon {
+        
+        margin-left: 109px;
+    }
+    .heading_three h1 {
+        font-size: 34px;
+        
+    }
+    .image-one {
+        
+        margin-left: 80px;
+        margin-bottom: 20px;
+    }
+}
+@media (min-width: 322px) and (max-width:426px){
+    .f-icon {
+        margin-left: 12px;
+        
+    }
+    .banner h1 {
+        
+        font-size: 38px;
+      
+    }
+}
+@media (min-width: 0px) and (max-width:321px){
+    .f-icon {
+        margin-left: -12px;
+    }
+    .banner h1 {
+        
+        font-size: 44px;
+      
+    }
+    .tittle h1 {
+        font-size: 14px;
+    }
+}
